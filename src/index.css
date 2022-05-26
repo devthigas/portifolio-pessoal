@@ -27,8 +27,7 @@
 }
 
 body{
-
-    background: url(./assets/3px-tile.png);
+    background: url(./assets/binding-dark.png);
     background-color: var(--color-bg);
     font-family: 'Poppins', sans-serif;
     line-height: 1.7;
